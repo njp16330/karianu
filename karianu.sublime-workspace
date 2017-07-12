@@ -1,0 +1,371 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reci",
+				"RecipesList"
+			],
+			[
+				"Rec",
+				"RecipesList"
+			],
+			[
+				"acti",
+				"activeTab"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"Ingre",
+				"Ingredient"
+			],
+			[
+				"ingre",
+				"ingredient"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"ingredi",
+				"ingredient_ids"
+			],
+			[
+				"in",
+				"ingredients"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"from",
+				"fromBottom"
+			],
+			[
+				"fro",
+				"fromLeft"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"to",
+				"toTop"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"tabl",
+				"inline-table"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"ken",
+				"kendoGrid"
+			],
+			[
+				"fon",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "install page",
+		"selected_items":
+		[
+			[
+				"install page",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Nisarg/Documents/nodejs/karianu"
+	],
+	"file_history":
+	[
+		"/C/Users/Nisarg/Documents/nodejs/karianu/package.json",
+		"/C/Users/Nisarg/Documents/nodejs/karianu/queries.js",
+		"/C/Users/Nisarg/Documents/nodejs/karianu/routes/index.js",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/src/App.css",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/src/App.js",
+		"/C/Users/Nisarg/Documents/nodejs/karianu/karianu.sql",
+		"/C/Users/Nisarg/Documents/nodejs/karianu/views/index.hjs",
+		"/C/Users/Nisarg/Documents/nodejs/karianu/bin/www",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/public/index.html",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/src/index.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Nisarg/Documents/nodejs/karianu/app.js",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/package.json",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/README.md",
+		"/C/Program Files/nodejs/node_modules/npm/html/doc/cli/npm-start.html",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/build/index.html",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/public/manifest.json",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/build/service-worker.js",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/node_modules/react/dist/react.js",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/node_modules/react/react.js",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/src/App.test.js",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/src/logo.svg",
+		"/C/Users/Nisarg/Documents/nodejs/karianu-front/src/index.css",
+		"/C/karianu/views/index.hjs",
+		"/C/karianu/app.js",
+		"/C/karianu/karianu.sql",
+		"/C/karianu/routes/index.js",
+		"/C/karianu/package.json",
+		"/C/karianu/queries.js",
+		"/C/karianu/views/index.html",
+		"/C/Program Files/PostgreSQL/9.6/doc/installation-notes.html",
+		"/C/Program Files/PostgreSQL/9.6/installer/server/startupcfg.vbs",
+		"/C/karianu/public/stylesheets/style.css",
+		"/C/karianu/routes/users.js",
+		"/C/karianu/puppies.sql",
+		"/C/karianu/reference_queries.js",
+		"/C/karianu/queries.sql",
+		"/C/Users/Nisarg/Documents/nodejs/binfo/public/app.js",
+		"/C/Users/Nisarg/Documents/nodejs/binfo/public/index.html",
+		"/C/Users/Nisarg/Documents/nodejs/binfo/server.js",
+		"/C/Users/Nisarg/Documents/GitHub/binfo/server.js",
+		"/C/Users/Nisarg/Documents/GitHub/binfo/public/app.js",
+		"/C/Users/Nisarg/Documents/GitHub/binfo/r-in/rstest.R",
+		"/C/Users/Nisarg/Documents/GitHub/binfo/binfo/public/app.js",
+		"/C/Users/Nisarg/Documents/GitHub/binfo/binfo/server.js",
+		"/C/Users/Nisarg/Documents/nodejs/binfo/r-in/rstest.R",
+		"/C/Users/Nisarg/Documents/nodejs/binfo/r-in/ex-async.R",
+		"/C/Users/Nisarg/Documents/nodejs/binfo/node_modules/r-script/index.js",
+		"/C/Users/Nisarg/Documents/nodejs/binfo/r-in/ex-sync.R",
+		"/C/Users/Nisarg/Documents/nodejs/binfo/node_modules/r-script/example/ex.js",
+		"/C/Users/Nisarg/Documents/nodejs/binfo/node_modules/r-script/example/ex-async.R",
+		"/C/Users/Nisarg/Documents/nodejs/binfo/package.json",
+		"/D/AnkurProject/WithinSampleBrayCurtis/WithinSampleBray-Curtis.r",
+		"/C/Users/Nisarg/Documents/My Web Sites/ashwin/css/app.css",
+		"/C/Users/Nisarg/Documents/My Web Sites/ashwin/js/app.js",
+		"/C/Users/Nisarg/Documents/My Web Sites/ashwin/index.html",
+		"/C/Users/Nisarg/Downloads/jquery.scrollbar/demo/basic.html",
+		"/C/Users/Nisarg/Downloads/jquery.scrollbar/index.html",
+		"/C/Users/Nisarg/Downloads/jquery.scrollless-master/jquery.scrollless-master/README.md",
+		"/C/Users/Nisarg/Downloads/jquery.scrollless-master.zip",
+		"/C/Users/Nisarg/Documents/My Web Sites/jquery ui demos/selectable.html",
+		"/C/Users/Nisarg/AppData/Local/Temp/Temp1_javadoug-jquery.drag-multiple-0.1.1-0-g72c2034.zip/javadoug-jquery.drag-multiple-72c2034/src/drag-multiple.js",
+		"/C/Users/Nisarg/Documents/mycontrols/dropdown/‌index.html",
+		"/C/Users/Nisarg/Documents/mycontrols/dropdown/zerg.js",
+		"/C/Users/Nisarg/AppData/Local/Temp/Temp1_javadoug-jquery.drag-multiple-0.1.1-0-g72c2034.zip/javadoug-jquery.drag-multiple-72c2034/README.md",
+		"/C/Users/Nisarg/AppData/Local/Temp/Temp1_codemirror.zip/codemirror-4.12/doc/manual.html",
+		"/C/Users/Nisarg/AppData/Local/Temp/Temp1_codemirror.zip/codemirror-4.12/index.html",
+		"/C/Users/Nisarg/AppData/Local/Temp/Temp1_codemirror.zip/codemirror-4.12/test/comment_test.js",
+		"/C/Users/Nisarg/Documents/My Web Sites/test/index.html",
+		"/C/Users/Nisarg/AppData/Local/Temp/Temp1_codemirror.zip/codemirror-4.12/keymap/sublime.js",
+		"/C/Users/Nisarg/Documents/KendoUI/work/project1/testpage1.html",
+		"/C/Users/Nisarg/Documents/KendoUI/work/project1/basic.js",
+		"/C/Users/Nisarg/Documents/KendoUI/work/project1/basic.css",
+		"/C/Users/Nisarg/Documents/KendoUI/work/project1/Page1.html",
+		"/C/Users/Nisarg/Box Sync/summer 2014/ajaxtest/css/basic.css",
+		"/C/Users/Nisarg/Box Sync/summer 2014/ajaxtest/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"pornhub.com",
+			"\\s+",
+			"\",\\s*\\n",
+			"^\\s*\"",
+			"^\\\"",
+			"^",
+			"proxy",
+			"('/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "karianu.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
